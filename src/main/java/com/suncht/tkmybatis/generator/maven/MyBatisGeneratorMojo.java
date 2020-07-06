@@ -1,6 +1,5 @@
 package com.suncht.tkmybatis.generator.maven;
 
-import com.google.common.collect.Lists;
 import com.suncht.tkmybatis.generator.maven.plugin.AutoGenXmlPlugin;
 import com.suncht.tkmybatis.generator.maven.plugin.BaseColumnListPlugin;
 import com.suncht.tkmybatis.generator.maven.plugin.DomainLombokPlugin;
